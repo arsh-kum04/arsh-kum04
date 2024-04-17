@@ -43,4 +43,9 @@
 <img align="left" alt="FireBase" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-original.svg" style="padding-right:10px;"/>
 
 <img align="left" alt="SQLite" width="26px" src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original.svg" style="padding-right:10px;"/>
+&nbsp;&nbsp;
+
+### PORTFOLIO
+
+![Arsh's github stats](https://github-readme-stats.vercel.app/api?username=arsh-kum04&show_icons=true&theme=dracula&hide=stars,issues)
 
