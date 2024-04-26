@@ -1,6 +1,6 @@
 # Hi there, I'm Arsh 🙌🏻
 
-### Native Android developer with a strong motivation and aptitude for problem-solving. Well versed in Java and Kotlin, able to combine technical skill with creativity to create intuitive mobile applications. Passionate about lifelong learning and development in the continuously evolving field of Android development.
+### Native Android developer with a strong motivation and aptitude for problem-solving. Well versed in C++,Python, Java and Kotlin, able to combine technical skill with creativity to create intuitive mobile applications. Passionate about lifelong learning and development in the continuously evolving field of Android development.
 
 <img align="right" alt="Coding" width="400" src="https://github.com/arsh-kum04/arsh-kum04/assets/106028200/7b45cfe2-5ac5-4bb7-9d1a-d5e3a951221f">
 
