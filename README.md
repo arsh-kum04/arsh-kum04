@@ -4,10 +4,13 @@
 
 <img align="right" alt="Coding" width="400" src="https://github.com/arsh-kum04/arsh-kum04/assets/106028200/7b45cfe2-5ac5-4bb7-9d1a-d5e3a951221f">
 
-- 🌱 I’m consistently learning Android Development.
-- 👯 I’m looking to collaborate with other android developers on open source projects
-- 🥅 2024 Goal: Contribute to a Big Open Source Project
-- ⚡️ Fun fact: There is nothing I enjoy watching more than car videos🏎️
+🌱 I’m consistently learning and improving my Android development skills.
+
+👯 I’m looking to collaborate with other Android developers on open-source projects.
+
+🥅 2025 Goal: Deepen my expertise in native Android development and broaden my knowledge base.
+
+⚡️ Fun fact: Nothing relaxes me more than watching car videos! 🏎️
 
 
 ### Connect with me:
